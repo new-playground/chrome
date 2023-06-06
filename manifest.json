@@ -1,0 +1,18 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "prioritab.html"
+   },
+   "description": "A new tab page to remind you of your priorities",
+   "icons": {
+      "128": "prioritab_logo_v2_128.png",
+      "16": "prioritab_logo_v2_16.png",
+      "32": "prioritab_logo_v2_32.png",
+      "48": "prioritab_logo_v2_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoFtLALwrPV0o/3/T1edBMNmjjNwSpkTWbZdvSJZDuO11bYrB1ZcpvA1GPEApWL+jpVZNCZVAIa/icBVznsx+lk3o+I2yCLpf8w8z+a+sCDUJk1/tZ7s8dfdqj8bAbbPbrNUJAyTXneSNegowCFTkpnccZ7HICrmOW3PlQe69oTnq1PUOEuXoVeh+Wn6ognYmFN5iTMDpzgQ4rGUlpbqwgH7K0k5fsjzu4PV+3qJm5jSlYdIssE+UQ+oO2yp6/zEB13c9bwBCD4efAwgnkUNCA4309Uc4NEAOXCnD3iLcgeBlb+FrMjRgc9HUArp+OkL0+tANKhoiMRXyihYGNZnTQQIDAQAB",
+   "manifest_version": 2,
+   "name": "Prioritab",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.0"
+}
